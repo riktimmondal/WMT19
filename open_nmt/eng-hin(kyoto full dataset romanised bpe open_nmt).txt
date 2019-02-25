@@ -1,0 +1,27 @@
+We have used kyoto eng-hi dataset.
+We have use bpe.
+
+1) encoder type-brnn, optimization- adam, learning rate-0.001 batch size=1
+First transliteration of hindi data was done. Then training was done with source as english and target as Hindi.
+val acc-12.50 and acc-20.57 at 10000 iterations
+val acc-15.56 and acc-22.67 at 20000
+val acc-17.10 and acc-26.75 at 30000
+val acc-17.50 and acc-33.71 at 40000
+val acc-18.22 and acc-29.57 at 50000
+val acc-19.66 and acc-30.53 at 60000
+val acc-20.19 and acc-32.01 at 70000
+val acc-20.74 znd acc-33.61 at 80000
+val acc-20.86 and acc-32.62 at 90000
+val acc-21.24 and acc-26.21 at 100000
+BLEU scores:
+3.99 at 100000
+3.95 at 95000
+4.07 at 90000
+3.76 at 75000
+2.56 at 40000
+
+2) Default parameters
+val acc-26.50 and acc-43.71 at 10000
+val acc-27.74 and acc-53.76 at 20000
+val acc-27.29 and acc-57.17 at 30000
+val acc-28.16 and acc-66.50 at 40000
