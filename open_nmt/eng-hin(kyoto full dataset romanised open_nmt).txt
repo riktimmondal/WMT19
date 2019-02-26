@@ -1,0 +1,20 @@
+We have used kyoto eng-hi dataset.
+encoder type-brnn, optimization- adam, learning rate-0.001 batch size=1
+First transliteration of hindi data was done. Then training was done with source as english and target as Hindi.
+20000-acc 23.81 and val-19.6285
+30,000-acc-30.49 val accuracy-21.77
+accu-30.82 val-23.26 at 40000
+acc-31.04 and val-23.38 at 50000
+val accu-26.18 and acc-29.71 at 60000
+val acc-26.69 and acc-32.29 at 70000
+val-27.425 and acc-31.51 at 80000
+val-27.74 and acc-40.81 at 90000
+val-27.79 and acc-32.69 ar 100000
+
+Bleu scores:
+bleu-3.87 at 100000
+bleu-3.76 at 95000
+bleu-3.54 at 75000
+bleu-3.94 at 90000
+bleu-3.77 at 85000
+
