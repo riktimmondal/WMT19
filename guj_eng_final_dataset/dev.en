@@ -1,0 +1,902 @@
+Give your application an accessibility workout
+A list of plugins that are disabled by default
+A list of plugins that are disabled by default .
+The layout for the bottom panel
+The layout for the bottom panel pluginview .
+The layout for the top panel
+The layout for the top panel pluginview .
+The default plugin layout for the top panel .
+Browse the various methods of the current accessible
+Hide private attributes
+Method
+Property
+Value
+Interactive console for manipulating currently selected accessible
+Event monitor
+Everything
+Selected application
+Selected accessible
+Source
+Event Monitor
+Shows events as they occur from selected types and sources
+Highlight last event entry
+Child count
+( no description )
+Description
+States
+Show
+Relations
+Attributes
+Perform action
+Toolkit
+Version
+0 , 0
+Relative position
+Size
+WIDGET
+Layer
+Alpha
+Absolute position
+Hyperlink
+Position
+Description
+Locale
+Select All
+Selected columns
+Selected rows
+Columns
+Rows
+Table Information
+Row
+Column
+Selected Cell
+Text
+Offset
+Include defaults
+Current value
+Minimum increment
+Maximum value
+Minimum value
+unknown
+Interface Viewer
+Allows viewing of various interface properties
+( not implemented )
+Name
+Start
+End
+Too many selectable children
+( Editable )
+Quick Select
+Plugin with various methods of selecting accessibles quickly .
+Inspect last focused accessible
+Inspect accessible under mouse
+Validates application accessibility
+Role
+Tests fundamental GUI application accessibility
+Children
+Component
+Task
+Key
+Top panel
+Bottom panel
+Plugins
+Global Hotkeys
+Web site
+Bookmark selected accessible .
+Manage bookmarks .
+Edit Bookmarks ...
+Title
+Application
+Path
+Add Bookmark ...
+Plugin Errors
+View
+No view
+Plugin View
+New View ...
+Give your application an accessibility workout
+A list of plugins that are disabled by default
+A list of plugins that are disabled by default .
+The layout for the bottom panel
+The layout for the bottom panel pluginview .
+The layout for the top panel
+The layout for the top panel pluginview .
+The default plugin layout for the top panel .
+Browse the various methods of the current accessible
+Hide private attributes
+Method
+Property
+Value
+Interactive console for manipulating currently selected accessible
+Event monitor
+Everything
+Selected application
+Selected accessible
+Source
+Event Monitor
+Shows events as they occur from selected types and sources
+Highlight last event entry
+Child count
+( no description )
+Description
+States
+Show
+Relations
+Attributes
+Perform action
+Toolkit
+Version
+0 , 0
+Relative position
+Size
+WIDGET
+Layer
+Alpha
+Absolute position
+Hyperlink
+Position
+Description
+Locale
+Select All
+Selected columns
+Selected rows
+Columns
+Rows
+Table Information
+Row
+Column
+Selected Cell
+Text
+Offset
+Include defaults
+Current value
+Minimum increment
+Maximum value
+Minimum value
+unknown
+Interface Viewer
+Allows viewing of various interface properties
+( not implemented )
+Name
+Start
+End
+Too many selectable children
+( Editable )
+Quick Select
+Plugin with various methods of selecting accessibles quickly .
+Inspect last focused accessible
+Inspect accessible under mouse
+Validates application accessibility
+Role
+Tests fundamental GUI application accessibility
+Children
+Component
+Task
+Key
+Top panel
+Bottom panel
+Plugins
+Global Hotkeys
+Web site
+Bookmark selected accessible .
+Manage bookmarks .
+Edit Bookmarks ...
+Title
+Application
+Path
+Add Bookmark ...
+Plugin Errors
+View
+No view
+Plugin View
+New View ...
+Give your application an accessibility workout
+A list of plugins that are disabled by default
+A list of plugins that are disabled by default .
+The layout for the bottom panel
+The layout for the bottom panel pluginview .
+The layout for the top panel
+The layout for the top panel pluginview .
+The default plugin layout for the top panel .
+Browse the various methods of the current accessible
+Hide private attributes
+Method
+Property
+Value
+Interactive console for manipulating currently selected accessible
+Event monitor
+Everything
+Selected application
+Selected accessible
+Source
+Event Monitor
+Shows events as they occur from selected types and sources
+Highlight last event entry
+Child count
+Description
+States
+Show
+Relations
+Attributes
+Perform action
+Toolkit
+Version
+0 , 0
+Relative position
+Size
+WIDGET
+Layer
+Alpha
+Absolute position
+Hyperlink
+Position
+Locale
+Select All
+Selected columns
+Selected rows
+Columns
+Rows
+Table Information
+Row
+Column
+Selected Cell
+Offset
+Include defaults
+Start : 0
+Current value
+Minimum increment
+Maximum value
+Minimum value
+unknown
+Interface Viewer
+Allows viewing of various interface properties
+( not implemented )
+( no description )
+Name
+Start
+End
+Too many selectable children
+( Editable )
+Quick Select
+Plugin with various methods of selecting accessibles quickly .
+Inspect last focused accessible
+Inspect accessible under mouse
+Validates application accessibility
+Role
+Tests fundamental GUI application accessibility
+Children
+Component
+Task
+Key
+Top panel
+Bottom panel
+Plugins
+Global Hotkeys
+Web site
+Bookmark selected accessible .
+Manage bookmarks .
+Edit Bookmarks ...
+Title
+Application
+Path
+Add Bookmark ...
+Plugin Errors
+View
+No view
+Plugin View
+New View ...
+Give your application an accessibility workout
+A list of plugins that are disabled by default
+A list of plugins that are disabled by default .
+The layout for the bottom panel
+The layout for the bottom panel pluginview .
+The layout for the top panel
+The layout for the top panel pluginview .
+The default plugin layout for the top panel .
+Browse the various methods of the current accessible
+Hide private attributes
+Method
+Property
+Value
+Interactive console for manipulating currently selected accessible
+Setup services browsing with ZeroConf
+List of Internet domains that will be browsed for services in addition to default domain ( typically local network ) .
+If supported , this option allows you to setup the state of NumLock after KDE startup . You can configure NumLock to be turned on or off , or configure KDE not to set NumLock state .
+NumLock on KDE Startup
+If supported , this option allows you to set the rate at which keycodes are generated while a key is pressed .
+Reset to defaults
+Current Component
+All Components
+Import Scheme ...
+Export Scheme ...
+Set All Shortcuts to None
+Remove Component
+Your current changes will be lost if you load another scheme before saving this one
+Load Shortcut Scheme
+Load
+This file ( % 1 ) does not exist . You can only select local files .
+Remove component
+Select the Components to Export
+Components
+File
+Select Shortcut Scheme
+Select a shortcut scheme file
+D-Bus Communication Error
+Unable to delete all the cookies as requested .
+Unable to delete cookies as requested .
+Cookie Management Quick Help
+Information Lookup Failure
+Unable to retrieve information about the cookies stored on your computer .
+End of session
+Yes
+New Cookie Policy
+Change Cookie Policy
+Duplicate Policy
+Replace
+Variable Proxy Configuration
+You must specify at least one valid proxy environment variable .
+Invalid Proxy Setup
+Successfully verified .
+Proxy Setup
+Automatic Proxy Variable Detection
+Manual Proxy Configuration
+Invalid Proxy Setting
+You entered a duplicate address . Please try again .
+% 1 is already in the list .
+Duplicate Entry
+Invalid Entry
+The address you have entered is not valid .
+Update Failed
+Timeout Values
+sec
+Bookmarks
+General Settings
+Disable it on slow system to disable background images .
+How much disk space is used to cache the pixmaps
+Pixmap Cache
+kB
+Clear the pixmap cache
+& Clear Cache
+Policy
+Search
+Search interactively for domains and hosts
+Details
+Default Policy
+Site Policy
+Domain
+Search interactively for domains
+Mark partially uploaded files
+Connect to the Internet directly .
+Enter the address for the proxy configuration script .
+Show the proxy environment variable configuration dialog .
+Setup ...
+Manually enter proxy server configuration information .
+Show the manual proxy configuration dialog .
+Prompt for login information whenever it is required .
+Use this login information .
+Use information specified here to login into proxy servers as needed .
+Login name .
+Login password .
+Use persistent connections to proxy
+Use proxy only for entries in this list
+Accept
+Reject
+Ask
+Default Identification
+Site Specific Identification
+Site Name
+Identification
+User Agent
+Add new identification text for a site .
+Change the selected identifier text .
+Delete the selected identifier text .
+Delete all identifiers .
+These settings apply to network browsing only .
+Add Identification
+Modify Identification
+Duplicate Identification
+Additional Library Search Paths
+( c ) 2001 George Staikos
+Misc Options
+This folder will be used by default to load or save documents from or to .
+This folder will be used by default to save your downloaded items .
+This folder will be used by default to load or save movies from or to .
+This folder will be used by default to load or save pictures from or to .
+This folder will be used by default to load or save music from or to .
+Autostart
+Desktop
+Documents
+Downloads
+Movies
+Pictures
+Music
+Do not Move
+Confirmation Required
+Menu Editor
+Menu
+New ...
+Remove
+Move Up
+& Previews & & Meta-Data
+Allow previews , " Folder Icons Reflect Contents " , and retrieval of meta-data on protocols :
+Preview Options Here you can modify the behavior of Konqueror when it shows the files in a folder . The list of protocols : check the protocols over which previews should be shown ; uncheck those over which they should not . For instance , you might want to show previews over SMB if the local network is fast enough , but you might disable it for FTP if you often visit very slow FTP sites with large images . Maximum File Size : select the maximum file size for which previews should be generated . For instance , if set to 1 MB ( the default ) , no preview will be generated for files bigger than 1 MB , for speed reasons .
+Local Protocols
+& Maximum file size :
+& Use thumbnails embedded in files
+Select this to use thumbnails that are found inside some file types ( e. g . JPEG ) . This will increase speed and reduce disk usage . Deselect it if you have files that have been processed by programs which create inaccurate thumbnails , such as ImageMagick .
+Sound Files
+& Left button :
+You can choose what happens when you click the left button of your pointing device on the desktop :
+Right button :
+You can choose what happens when you click the right button of your pointing device on the desktop :
+No action Window list menu : a menu showing all windows on all virtual desktops pops up . You can click on the desktop name to switch to that desktop , or on a window name to shift focus to that window , switching desktops if necessary , and restoring the window if it is hidden . Hidden or minimized windows are represented with their names in parentheses . Desktop menu : a context menu for the desktop pops up . Among other things , this menu has options for configuring the display , locking the screen , and logging out of KDE . Application menu : the " K " menu pops up . This might be useful for quickly accessing applications if you like to keep the panel hidden from view .
+Window List Menu
+Custom Menu 1
+Uncheck this option if you do not want to have icons on the desktop . Without icons the desktop will be somewhat faster but you will no longer be able to drag files to the desktop .
+& Show icons on desktop
+Show & tooltips
+Menu Bar at top of Screen
+& None
+Stylesheets
+Images
+Disabled
+Show Only Once
+Only on Hover
+Never
+Konqueror Fonts On this page , you can configure which fonts Konqueror should use to display the web pages you view .
+This is the relative font size Konqueror uses to display web sites .
+Konqueror will never display text smaller than this size , overriding any other settings .
+This is the font used to display normal text in a web page .
+This is the font used to display fixed-width ( i. e. non-proportional ) text .
+This is the font used to display text that is marked up as serif .
+This is the font used to display text that is marked up as sans-serif .
+This is the font used to display text that is marked up as italic .
+This is the font used to display text that is marked up as a fantasy font .
+Use Language Encoding
+Policy
+Click on this button to manually add a host or domain specific policy .
+Click on this button to change the policy for the host or domain selected in the list box .
+Click on this button to delete the policy for the host or domain selected in the list box .
+You must first select a policy to be changed .
+You must first select a policy to delete .
+Use Global
+Accept
+Reject
+Enable filters
+Hide filtered images
+Insert
+Update
+Remove
+Import ...
+Export ...
+When enabled blocked images will be removed from the page completely , otherwise a placeholder 'blocked ' image will be used .
+Show My Bookmarks
+Select Home Page
+Ask for name and folder when adding bookmarks
+If this box is checked , Konqueror will allow you to change the title of the bookmark and choose a folder in which to store it when you add a new bookmark .
+Show only marked bookmarks in bookmark toolbar
+If this box is checked , Konqueror will show only those bookmarks in the bookmark toolbar which you have marked to do so in the bookmark editor .
+If this box is checked , Konqueror will remember the data you enter in web forms and suggest it in similar fields for all forms .
+Here you can select how many values Konqueror will remember for a form field .
+Java Runtime Settings
+sec
+New Java Policy
+Change Java Policy
+Select a Java policy for the above host or domain .
+Debugging
+Enables builtin JavaScript debugger .
+New JavaScript Policy
+Select a JavaScript policy for the above host or domain .
+Domain-Specific JavaScript Policies
+Use global
+Use setting from global policy .
+Allow
+Accept all popup window requests .
+Ask
+Prompt every time a popup window is requested .
+Deny
+Reject all popup window requests .
+Smart
+Allow scripts to change the window size .
+Ignore
+Allow scripts to change the window position .
+Allow scripts to focus the window .
+Allow scripts to change the text of the status bar .
+Konqueror Browsing Control Module
+Waldo Bastian
+David Faure
+Matthias Kalle Dalheimer
+Lars Knoll
+Dirk Mueller
+Daniel Molkentin
+Wynn Wilkes
+Leo Savernik
+Global Settings
+& Enable plugins globally
+Domain-Specific Policies
+highest
+Scanning for plugins
+Select Plugin Scan Folder
+Netscape Plugins
+Plugin
+MIME type
+Description
+Suffixes
+New Plugin Policy
+Change Plugin Policy
+Select a plugin policy for the above host or domain .
+You must first enter a domain name .
+Hide the tab bar when only one tab is open
+Middle-click on a tab to close it
+Folders
+Information
+Use default stylesheet Select this option to use the default stylesheet .
+Font family A font family is a group of fonts that resemble one another , with family members that are e. g. bold , italic , or any number of the above .
+Font Family
+This is the currently selected font family
+Use same family for all text Select this option to override custom fonts everywhere in favor of the base font .
+Use same family for all text
+Font Size
+7
+8
+9
+10
+11
+12
+14
+16
+20
+24
+32
+48
+64
+Use same size for all elements Select this option to override custom font sizes in favor of the base font size . All fonts will be displayed in the same size .
+Colors
+Black on White This is what you normally see .
+White on Black This is your classic inverse color scheme .
+Custom Select this option to define a custom color for the default font .
+Background This background color is the one displayed behind the text by default . A background image will override this .
+Use same color for all text Select this option to apply your chosen color to the default font as well as any custom fonts as specified in a stylesheet .
+Use same color for all text
+Foreground color The foreground color is the color that the text is drawn in .
+Images
+Suppress images Selecting this will prevent Konqueror from loading images .
+Suppress background images Selecting this option will prevent Konqueror from loading background images .
+Suppress background images
+Preview
+Heading 1 Heading 2 Heading 3 User defined stylesheets allow increased accessibility for visually handicapped people .
+Confirm Desktop Effects Change
+Compositing is not supported on your system .
+Rivo Laks
+No Effect
+Appearance
+Accessibility
+Focus
+Window Management
+Tests
+Tools
+Desktop Effects
+Enable desktop effects
+Common Settings
+Improved window management
+Shadows
+Instant
+Very Fast
+Fast
+Normal
+Slow
+Very Slow
+Extremely Slow
+All Effects
+Advanced
+Only for Shown Windows
+Never
+Shared Memory
+Always
+All Desktops
+Current Desktop
+Cylinder
+% 1 ( unavailable )
+To add or remove titlebar buttons , simply drag items between the available item list and the titlebar preview . Similarly , drag items within the titlebar preview to re-position them .
+Resize
+Shade
+Play many different solitaire games
+Theme file name
+The name of the file with the graphics for the cards .
+Whether or not to show the toolbar
+Whether or not to show the status bar
+Select the style of control
+Select whether to drag the cards or to click on the source then the destination .
+Sound
+Whether or not to play event sounds .
+Animations
+Whether or not to animate card moves .
+The game file to use
+The name of the scheme file containing the solitaire game to play .
+Statistics of games played
+A list of strings that come in the form of a quintuple : name , wins , total games played , best time ( in seconds ) and worst time ( also in seconds ) . Unplayed games do not need to be represented .
+Recently played games
+A list of recently played games .
+New Game
+Statistics
+Help
+About
+Quit
+Select Game
+This game does not have hint support yet .
+This game is unable to provide a hint .
+Accordion
+Agnes
+Athena
+Aunt Mary
+Backbone
+Bakers Dozen
+Bakers Game
+Block Ten
+Bristol
+Camelot
+Canfield
+Carpet
+Chessboard
+Clock
+Cover
+Cruel
+Diamond Mine
+Doublets
+Eagle Wing
+Easthaven
+Eight Off
+Elevator
+Escalator
+First Law
+Fortress
+Fortunes
+Forty Thieves
+Fourteen
+Freecell
+Gaps
+Gay Gordons
+Glenwood
+Gold Mine
+Golf
+Gypsy
+Helsinki
+Hopscotch
+Isabel
+Jamestown
+Jumbo
+Kansas
+King Albert
+Kings Audience
+Klondike
+Labyrinth
+Lady Jane
+Maze
+Monte Carlo
+Neighbor
+Odessa
+Osmosis
+Peek
+Pileon
+Plait
+Poker
+Quatorze
+Royal East
+Saratoga
+Scorpion
+Scuffle
+Seahaven
+Sir Tommy
+Spider
+Spiderette
+Straight Up
+Streets And Alleys
+Template
+Ten Across
+Thieves
+Thirteen
+Thumb And Pouch
+Treize
+Triple Peaks
+Union Square
+Valentine
+Westhaven
+Whitehead
+Yield
+Yukon
+1
+black joker
+red joker
+Select the game type to play
+NAME
+Wins
+Congratulations , you have won !
+There are no more moves
+GNOME Games web site
+A scheme exception occurred
+Please report this bug to the developers .
+Start a new game
+Restart the game
+Play a different game
+Show gameplay statistics
+Close this window
+Undo the last move
+Redo the undone move
+Deal next card or cards
+Get a hint for your next move
+View help for Aisleriot
+View help for this game
+About this game
+Install card themes …
+Install new card themes from the distribution packages repositories
+Show or hide the toolbar
+Show or hide statusbar
+Pick up and drop cards by clicking
+Whether or not to play event sounds
+Whether or not to animate card moves
+Aisleriot cannot find the last game you played .
+This usually occurs when you run an older version of Aisleriot which does not have the game you last played . The default game , Klondike , is being started instead .
+Deal more cards
+Try rearranging the cards
+Unknown color
+the ace of clubs
+the two of clubs
+the three of clubs
+the four of clubs
+the five of clubs
+the six of clubs
+the seven of clubs
+the eight of clubs
+the nine of clubs
+the ten of clubs
+the jack of clubs
+the queen of clubs
+the king of clubs
+the unknown card
+the ace of spades
+the two of spades
+the three of spades
+the four of spades
+the five of spades
+the six of spades
+the seven of spades
+the eight of spades
+the nine of spades
+the ten of spades
+the jack of spades
+the queen of spades
+the king of spades
+the ace of hearts
+the two of hearts
+the three of hearts
+the four of hearts
+the five of hearts
+the six of hearts
+the seven of hearts
+the eight of hearts
+the nine of hearts
+the ten of hearts
+the jack of hearts
+the queen of hearts
+the king of hearts
+the ace of diamonds
+the two of diamonds
+the three of diamonds
+the four of diamonds
+the five of diamonds
+the six of diamonds
+the seven of diamonds
+the eight of diamonds
+the nine of diamonds
+the ten of diamonds
+the jack of diamonds
+the queen of diamonds
+the king of diamonds
+Three card deals
+Deal another round
+Deal a new card from the deck
+Move waste back to stock
+Move a card to the Foundation
+Move something into the empty Tableau slot
+Just because a crosswalk looks like a hopscotch board doesn 't mean it is one
+Look both ways before you cross the street
+Have you read the help file ?
+Odessa is a better game . Really .
+Tourniquets are not recommended unless in the direst emergency
+I could sure use a backrub right about now ...
+If you 're ever lost and alone in the woods , hug a tree
+Fishing wire makes bad dental floss
+Consistency is key
+When without a stapler , a staple and a ruler will work
+Never blow in a dog 's ear
+Redeal .
+Unknown value
+Deal a card
+No hint available right now
+Move something on to an empty reserve
+Remove the aces
+Remove the twos
+Remove the threes
+Remove the fours
+Remove the fives
+Remove the sixes
+Remove the sevens
+Remove the eights
+Remove the nines
+Remove the tens
+Remove the jacks
+Remove the queens
+Remove the kings
+I 'm not sure
+Return cards to stock
+Consider moving something into an empty slot
+Deal a card from stock
+No moves are possible . Undo or start again .
+The game has no solution . Undo or start again .
+Double click any card to redeal .
+No hint available .
+Randomly Placed Gaps on Redeal
+Deal a row
+Try moving a card to the reserve
+Try dealing a row of cards
+Try moving card piles around
+Same suit
+Alternating colors
+Select a card from the reserve for first foundation pile
+Deal another card
+Move a card or build of cards on to the empty slot
+Deal another hand
+Move card from waste
+Move waste to stock
+Deal a new card
+Try moving cards down from the foundation
+Single card deals
+No redeals
+Aim to place the suits in the order which fits the current layout most naturally .
+Deal new cards from the deck
+something
+an empty slot
+Place cards on to the Tableau to form poker hands
+Shuffle mode
+Deal the cards
+Reshuffle cards
+Move waste on to a reserve slot
+Please fill in empty pile first .
+Place something on empty slot
+Four Suits
+Two Suits
+One Suit
+Move a card to an empty temporary slot
+No hint available
+Allow temporary spots use
+Falling Stars
+Redheads
+Wood
+the foundation
+Deal a card from the deck
+Match the top two cards of the waste .
+Progressive Rounds
+Multiplier Scoring
+Move a build of cards on to the empty Tableau slot
+AppArmor Desktop Preferences
+Profile Generation
+Path
+YAST
+genprof
+AppArmor Rejections
+Bad write position
+Permission denied
+Out of memory
+Profile doesn 't conform to protocol
+Profile does not match signature
+Profile already exists
+Profile doesn 't exist
+unable to create work area
+Memory allocation error .
+Couldn 't merge entries . Out of Memory
+Firefox Web Browser
+Press any key to continue ...
+Cancel and & ignore future crashes of this program version
+& Cancel
+unknown program
+Your computer does not have enough free memory to automatically analyze the problem and send a report to the developers .
