@@ -1,0 +1,21 @@
+We have used eng-hi dataset of IIT Bombay after cleaning the dataset.
+We have used default parameters.
+acc-34.95 and val acc-23.90 at 10000
+acc-40.59 and val acc-35.40 at 20000
+acc-45.44 and val acc-33.68 at 30000
+acc-46.23 and val acc-39.36 at 40000
+acc-50.93 amd val acc-38.70 at 50000
+acc-55.13 and val acc-41.65 at 60000
+acc-57.36 and val acc-41.89 at 70000
+acc-58.31 and val acc-42.48 at 80000
+acc-59.14 and val acc-42.69 at 90000
+acc-59.13 and val acc-43.30 at 100000
+
+bleu-11.29 at 100000
+bleu-11.02 at 90000
+bleu-11.46 at 85000
+bleu-11.19 at 80000
+bleu-10.23 at 70000
+bleu-10.23 at 60000
+
+

@@ -1,0 +1,12 @@
+We have cleaned and used all the corpus given in WMT website for english-gujarati
+We have used default parameters with batch size 256
+acc=73.30 and val acc-39.94 at 10000
+acc-78.47 at 15000
+
+BLEU scores:
+19.68 at 10000
+16.70 at 15000
+
+
+Now, for checking purposes, we created a test dataset out of train dataset of 852 lines.
+BLEU scores: 61.39 at 15000
