@@ -1,0 +1,42 @@
+1)Opennmt default parameter
+Data is unshuffled
+Blue score on 902 test(dev) is BLEU = 50.25, 76.9/60.9/52.7/46.2 (BP=0.865, ratio=0.873, hyp_len=3537, ref_len=4052)
+
+2)Opennmt default parameter
+Data is shuffled
+BLEU = 49.16, 76.1/59.4/50.2/43.5 (BP=0.877, ratio=0.884, hyp_len=3581, ref_len=4052)
+
+
+
+
+3)Opennmt(English-> German (WMT))
+Data shuffled
+6 layers, LSTM 512, BPE, Transformer
+	
+
+4)Opennmt(German->English(iwslt))
+Data shuffled
+2 layers, LSTM 500, WE 500, encoder_type brnn input feed
+20 epochs
+
+
+5)Seq2seq
+data shuffled
+8 encoder/decoder layers, 1024 LSTM units, 32k shared wordpieces (similar to BPE); residual between layers connections; lots of other tricks; newstest2012 and newstest2013 as validation sets.
+
+6)Seq2seq
+data shuffled
+Character-level decoder with BPE encoder. Based on Bahdanau attention model; Bidirectional encoder with 512 GRU units; 2-layer GRU decoder with 1024 units; Adam; batch size 128; gradient clipping at norm 1; Moses Tokenizer; limit sequences to 50 symbols in source and 100 symbols and 500 characters in target.
+
+7)Seq2seq
+data shuffled
+Authors propose BPE for subword unit nsegmentation as a pre/post-processing step to handle open vocabulary; Base model is based on Bahndanau's paper. Bidirectional encoder; GRU; 1000 hidden units; 1000 attention units; 620-dimensional word embeddings; single-layer; beam search width 12; Adadelta with batch size 80; Using Groundhog;
+
+8)Seq2seq
+data shuffled
+Novel local/global attention mechanism; 50k vocabulary; 4 layers in encoder and decoder; unidirectional encoder; gradient clipping at norm 5; 1028 LSTM units, 1028-dimensional embeddings; (somewhat complicated) SGD decay schedule; dropout 0.2; UNK replace;
+
+
+9)Seq2seq
+data shuffled
+Authors propose a new sampling-based approach to incorporate a larger vocabulary; Base model is based on Bahndanau's paper. Bidirectional encoder; GRU; 1000 hidden units; 1000 attention units; 620-dimensional word embeddings; single-layer; beam search width 12;
