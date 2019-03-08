@@ -1,0 +1,8 @@
+We cleaned and removed redundant sentences from the corpus given by WMT as well as the ubuntu corpus.
+We used the corpus given by WMT for overfitting from 60000
+Initially, till 60000, we got a bleu of 4.11(highest) and val acc:23.61(at 50000).
+
+Then, we tried to overrfit.
+Highest val acc:23.413 at 70000.
+Highest acc: 95.67 at 100000
+Highest bleu:4.15
