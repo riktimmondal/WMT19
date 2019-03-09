@@ -1,0 +1,1 @@
+!python train.py -save_model demo_model -data data/demo -gpu_ranks 0 1 -encoder_type transformer -decoder_type transformer -position_encoding -layers 2 -rnn_size 512 -word_vec_size 512 -transformer_ff 2048 -heads 8
