@@ -6,3 +6,9 @@ Then, we tried to overrfit.
 Highest val acc:23.413 at 70000.
 Highest acc: 95.67 at 100000
 Highest bleu:4.15
+
+We preprocessed the dataset to remove redundant sentences from eng-guj corpus and divided the corpus into two parts ,one ,the bible corpus and the rest gathered from
+various souces.We initially trained till 60k iterations and then overfitted with the bible corpus (considering only sentences) and got highest bleu of 4.28 at 1lkh
+iteration and val acc of 23.4139.
+
+We normally trained the transformer model for 1lkh iteration without overfitting and got a bleu of 0.74 (highest).
