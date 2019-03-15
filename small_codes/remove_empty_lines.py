@@ -6,3 +6,4 @@ with codecs.open('dev.gu', encoding='utf-8') as f:
 	for lines in input:
 		if not lines.strip():continue
 		f1.write(lines)
+		
